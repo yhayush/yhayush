@@ -8,7 +8,7 @@
 <code>coffee time</code>
 
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/yotam-hayush-65a5b5193/"><img src="https://img.shields.io/badge/connect with me 🤝-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yotam-hayush-65a5b5193/" target="_blank"><img src="https://img.shields.io/badge/connect with me 🤝-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yotam.hayush@gmail.com?subject=Hello%20Yotam,%20From%20Github"><img src="https://img.shields.io/badge/chat with me 💬-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
